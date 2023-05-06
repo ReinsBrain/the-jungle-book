@@ -1,0 +1,142 @@
+body   { background-color:#A0A0A0; font-family:Times; color:#231f20; }
+div    { position:relative; width:544px; height:842px; }
+p      { margin: 0; padding: 0; position:absolute; white-space:nowrap }
+
+.ft20  { font-size:19px; }
+.ft40  { font-size:37px; }
+.ft41  { font-size:29px; }
+.ft42  { font-size:16px; }
+.ft43  { font-size: 8px; }
+
+.ft50  { font-size:13px; }
+.ft51  { font-size:11px; }
+.ft52  { font-size:11px; }
+
+.ft60  { font-size:22px; }
+.ft61  { font-size:15px; }
+.ft62  { font-size:15px; }
+.ft63  { font-size:15px; line-height:20px; }
+
+.ft70  { font-size:15px; }
+.ft71  { font-size:15px; }
+.ft72  { font-size:15px; line-height:20px; }
+
+.ft80  { font-size:29px; }
+
+.ft100 { font-size:22px; }
+
+.ft120 { font-size:15px; }
+.ft121 { font-size:23px; }
+.ft122 { font-size:15px; line-height:21px; }
+.ft123 { font-size:15px; line-height:20px; }
+
+.ft130 { font-size:15px; }
+.ft131 { font-size:15px; }
+.ft132 { font-size:15px; line-height:21px; }
+.ft133 { font-size:15px; line-height:20px; }
+.ft134 { font-size:15px; line-height:21px; }
+
+.ft140 { font-size:15px; }
+.ft141 { font-size:28px; }
+.ft142 { font-size:13px; }
+.ft143 { font-size:47px; }
+.ft144 { font-size:13px; line-height:18px; }
+.ft145 { font-size:15px; line-height:21px; }
+.ft146 { font-size:15px; line-height:20px; }
+
+.ft150 { font-size:15px; }
+.ft151 { font-size:15px; }
+.ft152 { font-size:15px; line-height:21px; }
+.ft153 { font-size:15px; line-height:20px; }
+
+.ft160 { font-size:15px; }
+.ft161 { font-size:15px; }
+.ft162 { font-size:15px; line-height:20px; }
+.ft163 { font-size:15px; line-height:21px; }
+
+.ft170 { font-size:15px; }
+.ft171 { font-size:15px; line-height:20px; }
+.ft172 { font-size:15px; line-height:21px; }
+
+.ft180 { font-size:15px; }
+.ft181 { font-size:15px; line-height:20px; }
+.ft182 { font-size:15px; line-height:21px; }
+
+.ft190 { font-size:15px; }
+.ft191 { font-size:15px; }
+.ft192 { font-size:15px; line-height:20px; }
+.ft193 { font-size:15px; line-height:21px; }
+
+.ft200 { font-size:15px; }
+.ft201 { font-size:15px; line-height:20px; }
+.ft202 { font-size:15px; line-height:21px; }
+
+.ft210 { font-size:15px; }
+.ft211 { font-size:15px; line-height:20px; }
+.ft212 { font-size:15px; line-height:21px; }
+
+.ft220{ font-size:15px; }
+.ft221{ font-size:15px; }
+.ft222{ font-size:15px; line-height:21px; }
+.ft223{ font-size:15px; line-height:20px; }
+
+.ft230{ font-size:15px; }
+.ft231{ font-size:15px; line-height:20px; }
+.ft232{ font-size:15px; line-height:21px; }
+
+.ft240{ font-size:15px; }
+.ft241{ font-size:15px; line-height:20px; }
+.ft242{ font-size:15px; line-height:21px; }
+
+.ft250{ font-size:15px; }
+.ft251{ font-size:15px; line-height:20px; }
+.ft252{ font-size:15px; line-height:21px; }
+
+.ft260{ font-size:15px; }
+.ft261{ font-size:15px; line-height:21px; }
+.ft262{ font-size:15px; line-height:20px; }
+
+.ft270{ font-size:15px; }
+.ft271{ font-size:15px; }
+.ft272{ font-size:15px; line-height:21px; }
+.ft273{ font-size:15px; line-height:20px; }
+
+.ft280{ font-size:15px; }
+.ft281{ font-size:15px; line-height:20px; }
+.ft282{ font-size:15px; line-height:21px; }
+
+.ft290{ font-size:15px; }
+.ft291{ font-size:15px; line-height:20px; }
+.ft292{ font-size:15px; line-height:21px; }
+
+.ft300{ font-size:15px; }
+.ft301{ font-size:15px; line-height:21px; }
+.ft302{ font-size:15px; line-height:20px; }
+
+.ft310{ font-size:15px; }
+.ft311{ font-size:15px; }
+.ft312{ font-size:15px; line-height:20px; }
+.ft313{ font-size:15px; line-height:21px; }
+
+.ft320{ font-size:15px; }
+.ft321{ font-size:15px; }
+.ft322{ font-size:15px; line-height:21px; }
+.ft323{ font-size:15px; line-height:20px; }
+
+.ft330{ font-size:15px; }
+.ft331{ font-size:15px; }
+.ft332{ font-size:15px; line-height:20px; }
+.ft333{ font-size:15px; line-height:21px; }
+
+.ft340{ font-size:15px; }
+.ft341{ font-size:15px; }
+.ft342{ font-size:15px; line-height:20px; }
+.ft343{ font-size:15px; line-height:21px; }
+
+.ft350{ font-size:15px; }
+.ft351{ font-size:15px; line-height:21px; }
+.ft352{ font-size:15px; line-height:20px; }
+
+.ft360{ font-size:15px; }
+.ft361{ font-size:23px; }
+.ft362{ font-size:15px; line-height:20px; }
